@@ -7,7 +7,7 @@
 //
 
 #import "QHViewController.h"
-
+#import <QHMyLib/Logger.h>
 @interface QHViewController ()
 
 @end
@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    Logger *lg = [Logger new];
+    [lg test];
+    
 }
 
 - (void)didReceiveMemoryWarning

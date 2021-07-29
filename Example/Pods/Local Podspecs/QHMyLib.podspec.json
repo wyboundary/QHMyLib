@@ -1,0 +1,22 @@
+{
+  "name": "QHMyLib",
+  "version": "0.1.0",
+  "summary": "A short description of QHMyLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wy136137@gmail.com/QHMyLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wy136137@gmail.com": "liwuyang@360.cn"
+  },
+  "source": {
+    "git": "https://github.com/wy136137@gmail.com/QHMyLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QHMyLib/Classes/**/*"
+}
